@@ -1,1 +1,2 @@
-grep "root" -A 3 /etc/passwd[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D -[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -i "root" -A 3 /etc/passwd 
+#!bin/bash[D[D[D[D[D[D[D[C[C[C[C/bin/bash
+grep -i "root" -A 3 /etc/passwd
