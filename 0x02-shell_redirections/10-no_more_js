@@ -1,2 +1,2 @@
 #!/bin/bash
-find -n *.js -delete[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D. -n[C[C[C[C[C[C[C[find . -n *.js -delete
+find . -name *.js -delete
