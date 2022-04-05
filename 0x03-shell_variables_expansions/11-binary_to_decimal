@@ -1,2 +1,2 @@
 #!/bin/bash
-convert number
+echo "$((2#$BINARY))"
