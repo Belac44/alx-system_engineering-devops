@@ -1,2 +1,2 @@
 #!/bin/bash
-alias echo[D[D[D[D[D'[C[C[C[C[D[D[D[D[C[C[[C[C 'echo $user'
+alias "$echo Hello $user"
