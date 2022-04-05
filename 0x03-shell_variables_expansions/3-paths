@@ -1,2 +1,2 @@
 #!/bin/bash
-alias c="ls -la | grep ^d[D[D[D [C -c ^d"
+echo $PATH | tr -s ":" "\n" | wc -l
